@@ -4,6 +4,6 @@
     "version": "1.0.0",
     "files": ["react-native-okra-expo"],
     "scripts": {
-        "postinstall": "mv ./react-native-okra-expo/* ./ && rmdir ./react-native-okra-expo"
+        "postinstall": "move ./react-native-okra-expo/* ./ && rmdir ./react-native-okra-expo"
     }
 }
