@@ -1,9 +1,6 @@
 {
-    "name": "react-native-okra-expo-edit",
+    "name": "react-native-okra-expo",
     "title": "React Native Okra Expo ",
     "version": "1.0.0",
-    "files": ["react-native-okra-expo"],
-    "scripts": {
-        "postinstall": "move ./react-native-okra-expo/* ./"
-    }
+    "files": ["react-native-okra-expo"]
 }
